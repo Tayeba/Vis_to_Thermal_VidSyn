@@ -1,1 +1,1 @@
-# Visible-to-Thermal: Image Synthesis
+# Visible-to-Thermal: Video Synthesis
