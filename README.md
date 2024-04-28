@@ -1,1 +1,1 @@
-# Vis_to_Thermal_ImgSyn
+# Visible-to-Thermal: Image Synthesis
